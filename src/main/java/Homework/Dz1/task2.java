@@ -1,4 +1,4 @@
-package Homework;
+package Homework.Dz1;
 
 public class task2 {
     public static void main(String[] args) {
